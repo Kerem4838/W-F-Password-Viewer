@@ -1,2 +1,2 @@
-# W-F-Password-Viewer
+# WI-FI-Password-Viewer Python and Exe
 Show WİFİ Password and QR Code
